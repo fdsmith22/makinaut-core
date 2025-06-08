@@ -6,12 +6,12 @@ Makinaut is an intuitive Python-based framework that lets you control motors, se
 
 ---
 
-## 🎯 Vision
+## Vision
 Makinaut empowers makers, students, and developers to rapidly build hardware control systems with minimal setup, no prior software experience, and a fun, intuitive experience. Whether you're a beginner with a breadboard or an expert with a robotic system, Makinaut helps you plug, code, and control — fast.
 
 ---
 
-## 🚀 Features
+## Features
 - ✅ YAML-based plug & play hardware config
 - ✅ Auto-generated control dashboard
 - ✅ Support for motors, sensors, GPIO devices
@@ -21,7 +21,7 @@ Makinaut empowers makers, students, and developers to rapidly build hardware con
 
 ---
 
-## 🧪 Quick Start
+## Quick Start
 
 ### 1. Clone the Repo
 ```bash
@@ -59,7 +59,7 @@ components:
 
 ---
 
-## 🧠 Project Structure
+##  Project Structure
 ```
 makinaut-core/
 ├── README.md
@@ -82,7 +82,7 @@ makinaut-core/
 
 ---
 
-## 🔮 Coming Soon
+##  Coming Soon (maybe idk yet..)
 - UI builder
 - Live sensor charts
 - Device marketplace
